@@ -1,0 +1,6 @@
+{
+	"ip":"lifeboat10.aternos.me",
+	"port": "22475",
+	"name": "afkbot",
+	"auto-night-skip":"true"
+}
